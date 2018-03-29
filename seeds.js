@@ -5,17 +5,17 @@ var Comment = require("./models/comment");
 var data = [
     {
         name: "Cloud's Rest", 
-        image: "https://pixabay.com/get/ea37b3072af7063ed1584d05fb1d4e97e07ee3d21cac104497f2c07ca4e9b1bd_340.jpg",
+        image: "https://cdn.pixabay.com/photo/2017/08/04/20/04/camping-2581242__340.jpg",
         description: "blah blah blah" 
     },    
     {
         name: "Desert Mesa", 
-        image: "https://pixabay.com/get/eb30b90e2af0033ed1584d05fb1d4e97e07ee3d21cac104497f2c07daee4b7b1_340.jpg",
+        image: "https://cdn.pixabay.com/photo/2016/11/21/15/14/camping-1845906__340.jpg",
         description: "blah blah blah" 
     },    
     {
         name: "Canyon Floor", 
-        image: "https://pixabay.com/get/eb31b00e28f2083ed1584d05fb1d4e97e07ee3d21cac104497f2c07ca5edbcbb_340.jpg",
+        image: "https://cdn.pixabay.com/photo/2015/11/07/11/39/camping-1031360__340.jpg",
         description: "blah blah blah" 
     }
 ]
