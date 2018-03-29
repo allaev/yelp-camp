@@ -6,17 +6,17 @@ var data = [
     {
         name: "Cloud's Rest", 
         image: "https://cdn.pixabay.com/photo/2017/08/04/20/04/camping-2581242__340.jpg",
-        description: "blah blah blah" 
+        description: "Lorem ipsum dolor amet pop-up tattooed flannel drinking vinegar, fam godard ethical tousled roof party. Hexagon ugh four loko fashion axe chartreuse, quinoa mlkshk. Next level blue bottle venmo salvia activated charcoal vape biodiesel tumeric, unicorn four loko tilde. Chicharrones hexagon 90's pickled pug, helvetica direct trade VHS small batch. 3 wolf moon retro venmo vape wayfarers, activated charcoal kickstarter meggings hella paleo church-key slow-carb. Squid kickstarter brooklyn tumeric heirloom sartorial." 
     },    
     {
         name: "Desert Mesa", 
         image: "https://cdn.pixabay.com/photo/2016/11/21/15/14/camping-1845906__340.jpg",
-        description: "blah blah blah" 
+        description: "Lorem ipsum dolor amet pop-up tattooed flannel drinking vinegar, fam godard ethical tousled roof party. Hexagon ugh four loko fashion axe chartreuse, quinoa mlkshk. Next level blue bottle venmo salvia activated charcoal vape biodiesel tumeric, unicorn four loko tilde. Chicharrones hexagon 90's pickled pug, helvetica direct trade VHS small batch. 3 wolf moon retro venmo vape wayfarers, activated charcoal kickstarter meggings hella paleo church-key slow-carb. Squid kickstarter brooklyn tumeric heirloom sartorial." 
     },    
     {
         name: "Canyon Floor", 
         image: "https://cdn.pixabay.com/photo/2015/11/07/11/39/camping-1031360__340.jpg",
-        description: "blah blah blah" 
+        description: "Lorem ipsum dolor amet pop-up tattooed flannel drinking vinegar, fam godard ethical tousled roof party. Hexagon ugh four loko fashion axe chartreuse, quinoa mlkshk. Next level blue bottle venmo salvia activated charcoal vape biodiesel tumeric, unicorn four loko tilde. Chicharrones hexagon 90's pickled pug, helvetica direct trade VHS small batch. 3 wolf moon retro venmo vape wayfarers, activated charcoal kickstarter meggings hella paleo church-key slow-carb. Squid kickstarter brooklyn tumeric heirloom sartorial." 
     }
 ]
 
