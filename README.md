@@ -1,5 +1,8 @@
 # yelp-camp
 
+Camping web app with full authentication.
+Users can add information about campgrounds and leave comments.
+
 - Node.js
 - Express
 - MongoDB
