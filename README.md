@@ -1,5 +1,4 @@
 # yelp-camp
-yet another MEN stack app (WIP)
 
 - Node.js
 - Express
