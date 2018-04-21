@@ -1,6 +1,6 @@
 # yelp-camp
 
-Camping web app with full authentication.
+Camping web app with full authentication.<br>
 Users can add information about campgrounds and leave comments.
 
 - Node.js
