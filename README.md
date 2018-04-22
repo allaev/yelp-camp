@@ -1,4 +1,4 @@
-# yelp-camp
+# yelp-camp ![CI status](https://img.shields.io/badge/top%20language-Javascript-yellow.svg)
 
 Camping web app with full authentication.<br>
 Users can add information about campgrounds and leave comments.
